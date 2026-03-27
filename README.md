@@ -82,5 +82,3 @@ src/main/java/edu/eci/arsw/blueprints
    - Código fuente actualizado.
    - Swagger/OpenAPI habilitado.  
    - Clase `ApiResponse<T>` implementada.
-
-   
